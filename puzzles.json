@@ -1,5 +1,11 @@
 [
-
+  {
+    "id": "20250725",
+    "title": "NYC",
+    "image_url": "https://mypicpuzzles.netlify.app/20250725.png",
+    "category": "Landmarks",
+    "date_available": "2025-07-27"
+  },  
   {
     "id": "20250726",
     "title": "Paris",
