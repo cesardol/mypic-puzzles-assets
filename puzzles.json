@@ -40,5 +40,12 @@
     "image_url": "https://mypicpuzzles.netlify.app/20250730.png",
     "category": "Landmarks",
     "date_available": "2025-07-30"
+  },
+  {
+    "id": "20250731",
+    "title": "",
+    "image_url": "https://mypicpuzzles.netlify.app/20250731.png",
+    "category": "Others",
+    "date_available": "2025-07-31"
   }
 ]
