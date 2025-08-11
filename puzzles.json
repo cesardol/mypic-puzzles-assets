@@ -1,5 +1,19 @@
 [
   {
+    "id": "20250807",
+    "title": "20250807",
+    "image_url": "https://mypicpuzzles.netlify.app/Foods/20250807.png",
+    "category": "Foods",
+    "date_available": "2025-08-07"
+  },
+  {
+    "id": "20250812",
+    "title": "20250812",
+    "image_url": "https://mypicpuzzles.netlify.app/Foods/20250812.png",
+    "category": "Foods",
+    "date_available": "2025-08-12"
+  },
+  {
     "id": "20250725",
     "title": "20250725",
     "image_url": "https://mypicpuzzles.netlify.app/Landmarks/20250725.png",
@@ -33,6 +47,13 @@
     "image_url": "https://mypicpuzzles.netlify.app/Others/20250731.png",
     "category": "Others",
     "date_available": "2025-07-31"
+  },
+  {
+    "id": "20250808",
+    "title": "20250808",
+    "image_url": "https://mypicpuzzles.netlify.app/Patterns/20250808.png",
+    "category": "Patterns",
+    "date_available": "2025-08-08"
   },
   {
     "id": "20250727",
