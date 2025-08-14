@@ -1,5 +1,19 @@
 [
   {
+    "id": "20250719",
+    "title": "20250719",
+    "image_url": "https://mypicpuzzles.netlify.app/Animals/20250719.png",
+    "category": "Animals",
+    "date_available": "2025-07-19"
+  },
+  {
+    "id": "20250720",
+    "title": "20250720",
+    "image_url": "https://mypicpuzzles.netlify.app/Animals/20250720.png",
+    "category": "Animals",
+    "date_available": "2025-07-20"
+  },
+  {
     "id": "20250801",
     "title": "20250801",
     "image_url": "https://mypicpuzzles.netlify.app/Art/20250801.png",
@@ -12,6 +26,13 @@
     "image_url": "https://mypicpuzzles.netlify.app/Art/20250802.png",
     "category": "Art",
     "date_available": "2025-08-02"
+  },
+  {
+    "id": "20250722",
+    "title": "20250722",
+    "image_url": "https://mypicpuzzles.netlify.app/Culture/20250722.png",
+    "category": "Culture",
+    "date_available": "2025-07-22"
   },
   {
     "id": "20250803",
@@ -84,11 +105,32 @@
     "date_available": "2025-07-30"
   },
   {
-    "id": "20250816",
-    "title": "20250816",
-    "image_url": "https://mypicpuzzles.netlify.app/Nature/20250816.png",
+    "id": "20250723",
+    "title": "20250723",
+    "image_url": "https://mypicpuzzles.netlify.app/Nature/20250723.png",
     "category": "Nature",
-    "date_available": "2025-08-16"
+    "date_available": "2025-07-23"
+  },
+  {
+    "id": "20250724",
+    "title": "20250724",
+    "image_url": "https://mypicpuzzles.netlify.app/Nature/20250724.png",
+    "category": "Nature",
+    "date_available": "2025-07-24"
+  },
+  {
+    "id": "20250731",
+    "title": "20250731",
+    "image_url": "https://mypicpuzzles.netlify.app/Others/20250731.png",
+    "category": "Others",
+    "date_available": "2025-07-31"
+  },
+  {
+    "id": "20250804",
+    "title": "20250804",
+    "image_url": "https://mypicpuzzles.netlify.app/Others/20250804.png",
+    "category": "Others",
+    "date_available": "2025-08-04"
   },
   {
     "id": "20250809",
@@ -96,20 +138,6 @@
     "image_url": "https://mypicpuzzles.netlify.app/Others/20250809.png",
     "category": "Others",
     "date_available": "2025-08-09"
-  },
-  {
-    "id": "20250815",
-    "title": "20250815",
-    "image_url": "https://mypicpuzzles.netlify.app/Others/20250815.png",
-    "category": "Others",
-    "date_available": "2025-08-15"
-  },
-  {
-    "id": "20250819",
-    "title": "20250819",
-    "image_url": "https://mypicpuzzles.netlify.app/Others/20250819.png",
-    "category": "Others",
-    "date_available": "2025-08-19"
   },
   {
     "id": "20250808",
