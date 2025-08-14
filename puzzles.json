@@ -1,5 +1,19 @@
 [
   {
+    "id": "20250801",
+    "title": "20250801",
+    "image_url": "https://mypicpuzzles.netlify.app/Art/20250801.png",
+    "category": "Art",
+    "date_available": "2025-08-01"
+  },
+  {
+    "id": "20250802",
+    "title": "20250802",
+    "image_url": "https://mypicpuzzles.netlify.app/Art/20250802.png",
+    "category": "Art",
+    "date_available": "2025-08-02"
+  },
+  {
     "id": "202508011",
     "title": "202508011",
     "image_url": "https://mypicpuzzles.netlify.app/Food/202508011.png",
@@ -14,11 +28,25 @@
     "date_available": "2025-08-07"
   },
   {
+    "id": "20250810",
+    "title": "20250810",
+    "image_url": "https://mypicpuzzles.netlify.app/Food/20250810.png",
+    "category": "Food",
+    "date_available": "2025-08-10"
+  },
+  {
     "id": "20250812",
     "title": "20250812",
     "image_url": "https://mypicpuzzles.netlify.app/Food/20250812.png",
     "category": "Food",
     "date_available": "2025-08-12"
+  },
+  {
+    "id": "20250813",
+    "title": "20250813",
+    "image_url": "https://mypicpuzzles.netlify.app/Food/20250813.png",
+    "category": "Food",
+    "date_available": "2025-08-13"
   },
   {
     "id": "20250814",
@@ -56,11 +84,18 @@
     "date_available": "2025-07-30"
   },
   {
-    "id": "20250731",
-    "title": "20250731",
-    "image_url": "https://mypicpuzzles.netlify.app/Others/20250731.png",
+    "id": "20250816",
+    "title": "20250816",
+    "image_url": "https://mypicpuzzles.netlify.app/Nature/20250816.png",
+    "category": "Nature",
+    "date_available": "2025-08-16"
+  },
+  {
+    "id": "20250812",
+    "title": "20250812",
+    "image_url": "https://mypicpuzzles.netlify.app/Others/20250812.png",
     "category": "Others",
-    "date_available": "2025-07-31"
+    "date_available": "2025-08-12"
   },
   {
     "id": "20250815",
@@ -70,11 +105,25 @@
     "date_available": "2025-08-15"
   },
   {
+    "id": "20250819",
+    "title": "20250819",
+    "image_url": "https://mypicpuzzles.netlify.app/Others/20250819.png",
+    "category": "Others",
+    "date_available": "2025-08-19"
+  },
+  {
     "id": "20250808",
     "title": "20250808",
     "image_url": "https://mypicpuzzles.netlify.app/Pattern/20250808.png",
     "category": "Pattern",
     "date_available": "2025-08-08"
+  },
+  {
+    "id": "20250813",
+    "title": "20250813",
+    "image_url": "https://mypicpuzzles.netlify.app/Pattern/20250813.png",
+    "category": "Pattern",
+    "date_available": "2025-08-13"
   },
   {
     "id": "20250727",
@@ -96,5 +145,12 @@
     "image_url": "https://mypicpuzzles.netlify.app/Pets/20250806.png",
     "category": "Pets",
     "date_available": "2025-08-06"
+  },
+  {
+    "id": "20250814",
+    "title": "20250814",
+    "image_url": "https://mypicpuzzles.netlify.app/Pets/20250814.png",
+    "category": "Pets",
+    "date_available": "2025-08-14"
   }
 ]
